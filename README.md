@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hola, soy Cristian Camilo Baron Pardo | Ingeniero de Software (7mo semestre)  
 
-<!--
-**CristianBaron123/CristianBaron123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Enfoque:** Backend Developer | JavaScript · Node.js · React · Tailwind CSS  
+🚀 **Objetivo:** Construir soluciones escalables y aprender arquitecturas robustas.  
+📌 **Proyecto Destacado:** [Sistema de Gestión de Hospitales](https://github.com/tuusuario/repositorio) (Agendamiento y roles, desarrollo académico).  
 
-Here are some ideas to get you started:
+### 🔥 Tecnologías en aprendizaje:  
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Estadísticas de GitHub:  
+[![Estadísticas](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)](https://github.com/tuusuario)  
+
+### 🌟 ¿Por qué colaborar conmigo?  
+- 🧠 **Lógica sólida** para resolver problemas complejos.  
+- 🔄 **En constante aprendizaje** (¡amante de los retos técnicos!).  
+- 🤝 **Abierto a contribuir** en proyectos de backend o full-stack.  
+
+📫 **Conéctame:** [LinkedIn](https://linkedin.com/in/tuperfil) | [Email](mailto:tuemail@example.com)  
+
+*"El código es poesía lógica. ✨"*  
