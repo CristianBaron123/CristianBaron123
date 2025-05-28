@@ -18,6 +18,6 @@
 - 🔄 **En constante aprendizaje** (¡amante de los retos técnicos!).  
 - 🤝 **Abierto a contribuir** en proyectos de backend o full-stack.  
 
-📫 **Conéctame:** [Email](ozoratsubasa552@gmail.com)  
+📫 **Contactame:** ozoratsubasa552@gmail.com 
 
 *"El código es poesía lógica. ✨"*  
