@@ -2,7 +2,7 @@
 
 💻 **Enfoque:** Backend Developer | JavaScript · Node.js · React · Tailwind CSS  
 🚀 **Objetivo:** Construir soluciones escalables y aprender arquitecturas robustas.  
-📌 **Proyecto Destacado:** [Sistema de Gestión de Hospitales](https://github.com/tuusuario/repositorio) (Agendamiento y roles, desarrollo académico).  
+📌 **Proyecto Destacado:** [Sistema de Gestión de Hospitales](https://github.com/CristianBaron123/HospitalPlusweb) (Agendamiento y roles, desarrollo académico).  
 
 ### 🔥 Tecnologías en aprendizaje:  
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
